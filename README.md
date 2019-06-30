@@ -4,7 +4,7 @@ Hi everyone! Ever heard of [Streisand effect](https://en.wikipedia.org/wiki/Stre
 
 Get head out of your ass, or continue panicing over nothing. The choice is yours!
 
-People on 4chan have been doing it for years manually in Photoshop. And the manual results were typically better, so why the commotion? Hmm...maybe because SCARY TOXIC MACHINE LEARNING headline get good click-through rate? ;)
+People on 4chan have been doing it for years manually in Photoshop. And the manual results were typically better, so why the commotion? Hmm...maybe because [SCARY TOXIC MACHINE LEARNING headline](sensationalist_journalism.png) get good click-through rate? ;)
 
 ## About this Repository
 
